@@ -1,0 +1,15 @@
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\bin\Debug\practica numero 1 progra 3.exe.config
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\bin\Debug\practica numero 1 progra 3.exe
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\bin\Debug\practica numero 1 progra 3.pdb
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.csprojAssemblyReference.cache
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\MainWindow.g.cs
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\App.g.cs
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3_MarkupCompile.cache
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3_MarkupCompile.lref
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\MainWindow.baml
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.g.resources
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica_numero_1_progra_3.Properties.Resources.resources
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.csproj.GenerateResource.cache
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.csproj.CoreCompileInputs.cache
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.exe
+C:\Users\Pool\source\repos\practica numero 1 progra 3\practica numero 1 progra 3\obj\Debug\practica numero 1 progra 3.pdb
